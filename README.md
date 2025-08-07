@@ -7,9 +7,9 @@ My biggest Projects are:
 - ![carbon functions ~ my laptop server Project](https://github.com/jethi05/carbon_functions)
 - sss (Small shitty scripts):
     - ![aPROgen](https://github.com/jethi05/aPROgen)
-    - ![vobi](https://github.com/jethi05/vobi))
-    - ![tmod](https://github.com/jethi05/tmod))
-    - ![gull](https://github.com/jethi05/gull-git-pull))
+    - ![vobi](https://github.com/jethi05/vobi)
+    - ![tmod](https://github.com/jethi05/tmod)
+    - ![gull](https://github.com/jethi05/gull-git-pull)
 
 
 # 💻 Tech Stack:
