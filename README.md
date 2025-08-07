@@ -5,6 +5,8 @@ You should switch to linux btw<br>
 My biggest Projects are:
 - ![FvSBS ~ my school](https://github.com/jethi05/FvSBS)
 - ![carbon functions ~ my laptop server Project](https://github.com/jethi05/carbon_functions)
+- sss (Small shitty scripts):
+    - ![aPROgen](https://github.com/jethi05/aPROgen)
 
 
 # 💻 Tech Stack:
