@@ -1,11 +1,7 @@
 # 💫 About Me:
 I''m currently learning C# and Rust<br>
-You should switch to linux btw<br>
 <br>
-My biggest Projects are:
-- ![FvSBS ~ my school](https://github.com/jethi05/FvSBS)
-- ![carbon functions ~ my laptop server Project](https://github.com/jethi05/carbon_functions)
-- sss (Small shitty scripts):
+Right now, im having just some small things :)
     - ![aPROgen](https://github.com/jethi05/aPROgen)
     - ![vobi](https://github.com/jethi05/vobi)
     - ![tmod](https://github.com/jethi05/tmod)
