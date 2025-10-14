@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jethi05&show_icons=true&locale=en" alt="jethi05" /></p>
 
-My professional account is [geisleje](https://www.github.com/geisleje)
